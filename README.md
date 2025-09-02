@@ -35,7 +35,7 @@ This project builds an end-to-end data science pipeline to predict the next day'
 
 ---
 ## Project Structure
-- `your_notebook_name.ipynb`: The main Jupyter Notebook containing all the analysis and modeling steps.
+- `NLP_for_Stock_Forecasting.ipynb`: The main Jupyter Notebook containing all the analysis and modeling steps.
 - `requirements.txt`: A list of all Python libraries required to run the project.
 - `AAPL_stock_data.csv`: Sample stock data collected.
 - `AAPL_news_data.csv`: Sample news data collected.
